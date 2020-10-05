@@ -29,3 +29,9 @@ Once you have done with assembling upload the software in the SRC folder on your
 Coming soon
 
 #5. Have fun with your lightmeter
+
+
+DISCLAIMER:
+The present lightmeter is, at this time, still untested. I am working on this version and trying to test it as soon as possible, but due to Corona, I have seen my orders being delayed more and more. I tested a previous version and, apart from some battery issues (that I should have solved in this version 1.1) it seemed to be working just fine. 
+
+Just remember that the input power should not exceed 5v, or you will risk making your arduino useless.
